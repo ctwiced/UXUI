@@ -1,0 +1,11 @@
+Task List
+
+Set a timer for 50 minutes that repeats 4 times, with a break for 20 minutes
+
+Add a todo called "Test"
+
+Add a label called "Test"
+
+Change the label called "Test" to "Best"
+
+Delete the todo called "Test"

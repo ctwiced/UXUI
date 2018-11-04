@@ -1,0 +1,17 @@
+The goal of these mini studies is to determine if there are any pain points or areas of improvement in the user experience of the 7 apps being tested, and use the data collected to come up with an improved version
+
+
+
+
+Sample size (n=5)
+
+The apps were chosen using the following criteria:
+
+- must have more than two layers of functionality (ex. nested menus containing different actions performable by the user)
+
+- mustn't require specialized knowledge prior to use (ex. skills such as programming or design)
+
+- mustn't be (completely) paywalled or require linking to other services
+
+
+Experiments were conducted over a period of 10-20 minutes. Users were asked to perform a set of five tasks per app. Touch input visualization was enable on the device under developer options, and user interaction was recorded using a screen capture app.

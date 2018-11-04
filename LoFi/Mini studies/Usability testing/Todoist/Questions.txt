@@ -1,0 +1,16 @@
+“What do you do for a living?”
+“Can you tell me about your hobbies?”
+
+
+Rate task difficulty 1-10 per task
+8
+Overall impression of app 1-10
+2
+Is this an app that you would personally use?
+No
+If not, who do you know that would like a an app like this? What are they like?
+NO
+Are there any features missing that you'd like to see?
+Throw it out and use google calendar
+Before today, were you aware of this app?
+No

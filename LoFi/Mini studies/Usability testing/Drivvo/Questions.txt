@@ -1,0 +1,16 @@
+“What do you do for a living?”
+“Can you tell me about your hobbies?”
+
+
+Rate task difficulty 1-10 per task
+10
+Overall impression of app 1-10
+7
+Is this an app that you would personally use?
+Possibly
+If not, who do you know that would like a an app like this? What are they like?
+Mike (He does a lot of travel and uses his personal vehicle.He'd be able to plan out a lot of travel and expenses)
+Are there any features missing that you'd like to see?
+Tie in to google maps
+Before today, were you aware of this app?
+No

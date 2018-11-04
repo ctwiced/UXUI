@@ -1,0 +1,10 @@
+“What do you do for a living?”
+“Can you tell me about your hobbies?”
+
+
+Rate task difficulty 1-10 per task
+Overall impression of app 1-10
+Is this an app that you would personally use?
+If not, who do you know that would like a an app like this? What are they like?
+Are there any features missing that you'd like to see?
+Before today, were you aware of this app?
